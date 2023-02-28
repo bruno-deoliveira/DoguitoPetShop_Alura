@@ -1,7 +1,7 @@
 <h1 align="center">🐶 Doguito Pet Shop Alura </h1>
 <h4 align="center"> Status: 🚀 Finished </h4>
 
-![github - capas (1)](https://user-images.githubusercontent.com/109918729/190032806-cbb093da-d1aa-4939-9a5e-236944760b0e.png)
+![github - capas (2)](https://user-images.githubusercontent.com/109918729/221731107-1d69c731-704a-4ea7-b7a3-defd6b988007.png)
 
 ## 💻 Projeto
 Criação de uma página de formulário para cadastro de pessoas. Curso de JavaScript na Web: Validação de Formulários e HTML5.
